@@ -6,7 +6,7 @@
       dark
     >
       <div class="d-flex align-center">
-        <v-img
+        <v-img 
           alt="Vuetify Logo"
           class="shrink mr-2"
           contain
